@@ -1,0 +1,4 @@
+C:\Users\HP3abc\source\repos\UZO\UZO\x64\Debug\UZO.vcxproj.AssemblyReference.cache
+C:\Users\HP3abc\source\repos\UZO\UZO\x64\Debug\UZO.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\HP3abc\source\repos\UZO\UZO\x64\Debug\UZO.MyForm.resources
+C:\Users\HP3abc\source\repos\UZO\UZO\x64\Debug\UZO.vcxproj.GenerateResource.cache

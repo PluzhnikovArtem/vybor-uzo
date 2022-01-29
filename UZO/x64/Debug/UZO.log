@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\HP3abc\source\repos\UZO\UZO\MyForm.cpp(13,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\HP3abc\source\repos\UZO\UZO\MyForm.cpp(108,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\HP3abc\source\repos\UZO\UZO\MyForm.cpp(111,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\HP3abc\source\repos\UZO\UZO\MyForm.cpp(114,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  UZO.vcxproj -> C:\Users\HP3abc\source\repos\UZO\x64\Debug\UZO.exe
